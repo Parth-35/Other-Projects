@@ -1,0 +1,20 @@
+*
+{
+    margin: 0px;
+}
+
+.content
+{
+    display: grid;
+    justify-content: center;
+}
+
+.todo
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    gap:10px;
+    border-bottom: black 1px solid;
+    padding: 5px
+}
